@@ -21,5 +21,15 @@ Basically in sudoku we want to be able to solve s sudoku puzzle given an input l
  [ 6, -1, -1, ...]
  ...] `
  
+ would represent a board like this:
+```
+ -----------
+|     1   5 | ...
+|           | ...
+| 6         | ...
+ -----------
+ ...
+```
+ 
 
 Now, our goal is to solve our sudoku puzzle using Python! :D
